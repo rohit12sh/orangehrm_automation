@@ -1,0 +1,8 @@
+playwright
+pytest
+pytest-playwright
+pytest-axe
+allure-pytest
+python-dotenv
+pytest-xdist
+faker
